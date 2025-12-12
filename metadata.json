@@ -1,0 +1,5 @@
+{
+  "name": "CyberSafe AI",
+  "description": "An AI-powered cyber breach predictor and anomaly detection dashboard that analyzes system logs and network diagrams to identify threats.",
+  "requestFramePermissions": []
+}
